@@ -1,0 +1,12 @@
+*.o
+build
+clock
+Bezier
+beaker
+drawEllip
+flood
+mpsubdiv
+nsut
+test
+texture
+.vscode
