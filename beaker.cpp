@@ -1,3 +1,5 @@
+/* Program to fill a beaker using scanline polygon filling */
+
 #include<SFML/Graphics.hpp>
 
 int main(){

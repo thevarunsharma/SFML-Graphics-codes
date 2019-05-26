@@ -1,3 +1,5 @@
+/* Program to draw N-order Bezier Curve and roll a circle on it which is to be controlled by keyboard */
+
 #include<iostream>
 #include<math.h>
 #include<SFML/Graphics.hpp>
