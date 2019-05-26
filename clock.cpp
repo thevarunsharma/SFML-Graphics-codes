@@ -1,3 +1,5 @@
+/* Program to simulate a clock */
+
 #include<SFML/Graphics.hpp>
 #include<stdio.h>
 
