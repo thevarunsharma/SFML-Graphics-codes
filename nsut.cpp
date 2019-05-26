@@ -1,8 +1,7 @@
+/* Program to create animated NSUT logo */
+
 #include<SFML/Graphics.hpp>
 #include<math.h>
-
-// #include <glm/glm.hpp>
-// #include <glm/gtc/matrix_transform.hpp>
 
 #define PI 3.141592654
 
