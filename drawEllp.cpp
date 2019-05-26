@@ -1,3 +1,5 @@
+/* Roll an ellipse on straight line : (Bugs persist) */
+
 #include<SFML/Graphics.hpp>
 #include<math.h>
 
